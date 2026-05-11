@@ -1,0 +1,32 @@
+Filter Settings file
+
+Room EQ V5.31.3
+Dated: 03 May 2026 9:49:27 PM
+
+Notes:JBL Charge 6 - harman target 2 - 103.5db - filter settings - finer
+
+Equaliser: Generic
+L+R Apr 27
+Filter  1: ON  PK       Fc   107.5 Hz  Gain  -2.70 dB  Q 10.298
+Filter  2: ON  PK       Fc   200.0 Hz  Gain  -6.00 dB  Q  7.189
+Filter  3: ON  PK       Fc   251.0 Hz  Gain  -3.50 dB  Q  3.031
+Filter  4: ON  PK       Fc   309.0 Hz  Gain   5.00 dB  Q  1.000
+Filter  5: ON  PK       Fc   700.0 Hz  Gain -10.30 dB  Q  2.480
+Filter  6: ON  PK       Fc   729.0 Hz  Gain   5.00 dB  Q  7.415
+Filter  7: ON  PK       Fc    1476 Hz  Gain  -5.80 dB  Q  2.982
+Filter  8: ON  PK       Fc    1488 Hz  Gain   5.00 dB  Q  1.000
+Filter  9: ON  PK       Fc    5219 Hz  Gain  -4.50 dB  Q  4.162
+Filter 10: ON  PK       Fc    9731 Hz  Gain  -3.10 dB  Q  3.064
+Filter 11: ON  PK       Fc   15892 Hz  Gain  -8.70 dB  Q  2.964
+Filter 12: ON  None   
+Filter 13: ON  None   
+Filter 14: ON  None   
+Filter 15: ON  None   
+Filter 16: ON  None   
+Filter 17: ON  None   
+Filter 18: ON  None   
+Filter 19: ON  None   
+Filter 20: ON  None   
+Filter  1: ON  None      
+Filter  2: ON  None      
+
