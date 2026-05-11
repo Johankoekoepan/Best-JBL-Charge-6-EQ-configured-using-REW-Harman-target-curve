@@ -14,8 +14,11 @@ There are 3 EQ profiles, the one has 11PK's and the other 20PK's, the 20PK is mo
 
 I used the a very good budget consumer mic to do sweep tests of my speaker (sure it might not be the BEST but I feel like it's really good and atleast good enough for amazing results): Fifine T669 Pro 3 RGB Cardioid Condenser Microphone
 
+
 Different EQ's:
 
 11PK EQ: smooth match to harman target curve.
+
 OLD 20PK EQ: a lot closer (more precise) match to the harman curve with a little bit lower vocals than the newest 20PK.
+
 NEW 20PK EQ: closest to the harman curve. (Technically the best i guess but I personally still prefer the old 20PK EQ)
