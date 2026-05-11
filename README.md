@@ -1,4 +1,4 @@
-# Best-JBL-Charge-6-EQ-configured-using-REW-Harman-target-curve
+# Best JBL Charge 6 EQ configured using REW - (Harman target curve)
 
 The reason I'm making this post is because I tried looking for an EQ online that'll make the JBL Charge 6 sound as good as it can but found nothing and want to share my EQ for anyone to use if you like it :)
 
