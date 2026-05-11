@@ -17,8 +17,6 @@ I used the a very good budget consumer mic to do sweep tests of my speaker (sure
 
 Different EQ's:
 
-11PK EQ: smooth match to harman target curve.
-
-OLD 20PK EQ: a lot closer (more precise) match to the harman curve with a little bit lower vocals than the newest 20PK.
-
-NEW 20PK EQ: closest to the harman curve. (Technically the best i guess but I personally still prefer the old 20PK EQ)
+•  11PK EQ: smooth match to harman target curve.
+•  OLD 20PK EQ: a lot closer (more precise) match to the harman curve with a little bit lower vocals than the newest 20PK.
+•  NEW 20PK EQ: closest to the harman curve. (Technically the best i guess but I personally still prefer the old 20PK EQ)
